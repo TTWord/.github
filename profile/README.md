@@ -1,12 +1,15 @@
-## Hi there 👋
+# TTWord
 
-<!--
+## Introduction
+인공지능과 웹을 결합하여 만든 단어장 웹 & 앱 입니다.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Member
+- 김정현 (AI Engineer)
+  - AI Engineering : AI 개발 전체
+  - Backend Development : 백엔드 리드 개발
+- 박수봉 (Fullstack Developer)
+  - Project Planning : 프로젝트 기획 & 디자인
+  - Fullstack Development : 프론트엔드 세팅 및 프론트 & 백 핵심 기능 개발
+- 노지훈 (Fullstack Developer)
+  - Frontend Development : 프론트엔드 핵심 기능 개발
+  - Backend Development : 간단한 기능 개발

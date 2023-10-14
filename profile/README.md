@@ -1,4 +1,4 @@
-# TTWord
+# Danuh
 
 ## Introduction
 인공지능과 웹을 결합하여 만든 단어장 웹 & 앱 입니다.
